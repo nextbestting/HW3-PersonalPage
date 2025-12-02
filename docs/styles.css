@@ -306,4 +306,12 @@ a {
   .nav {
     justify-content: flex-start;
   }
+
+  .avatar {
+  width: 240px;
+  aspect-ratio: 1 / 1;
+  border-radius: 999px;
+  object-fit: cover;
+  border: 1px solid rgba(234, 240, 255, 0.14);
+}
 }
