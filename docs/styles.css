@@ -314,4 +314,14 @@ a {
   object-fit: cover;
   border: 1px solid rgba(234, 240, 255, 0.14);
 }
+
+.work-logo{
+  width: 100%;
+  max-width: 420px;
+  margin: 0 auto;
+  border-radius: 16px;
+  background: #ffffff; 
+  padding: 14px;
+  border: 1px solid rgba(234, 240, 255, 0.14);
+}
 }
